@@ -4,17 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DC Comics |</title>
+    <title>DC Comics | @yield('title')</title>
 </head>
 <body>
-    <header>
-        <h3>header</h3>
-    </header>
+    @include('includes.header')
     <main>
         @yield('main-content')
     </main>
-    <footer>
-        <h3>footer</h3>
-    </footer>
+    @include('includes.footer')
 </body>
 </html>
