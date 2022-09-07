@@ -73,11 +73,11 @@
                          <li>
                              <h4>Follow us</h4>
                          </li>
-                         <li><img src="../assets/img/footer-facebook.png" alt="facebook-logo"></li>
-                         <li><img src="../assets/img/footer-twitter.png" alt="twitter-logo"></li>
-                         <li><img src="../assets/img/footer-youtube.png" alt="youtube-logo"></li>
-                         <li><img src="../assets/img/footer-pinterest.png" alt="pinterest-logo"></li>
-                         <li><img src="../assets/img/footer-periscope.png" alt="periscope-logo"></li>
+                         <li><img src="../assets/images/footer-facebook.png" alt="facebook-logo"></li>
+                         <li><img src="../assets/images/footer-twitter.png" alt="twitter-logo"></li>
+                         <li><img src="../assets/images/footer-youtube.png" alt="youtube-logo"></li>
+                         <li><img src="../assets/images/footer-pinterest.png" alt="pinterest-logo"></li>
+                         <li><img src="../assets/images/footer-periscope.png" alt="periscope-logo"></li>
                      </ul>
                  </div>
              </div>

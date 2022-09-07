@@ -3,7 +3,7 @@
           <div class="row">
               <div class="col-12">
                   <div class="d-flex justify-content-between align-items-center">
-                      <img src="../assets/img/dc-logo.png" alt="DC-logo" />
+                      <img src="../assets/images/dc-logo.png" alt="DC-logo" />
                       <nav>
                           <div class="container">
                               <div class="row">
@@ -28,5 +28,4 @@
               </div>
           </div>
       </div>
-
   </header>
