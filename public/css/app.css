@@ -10916,9 +10916,6 @@ main .comic-card img {
      object-position: top;
 }
 
-footer {
-  background-image: url(../assets/images/footer-bg.jpg);
-}
 footer .container {
   padding: 3rem 0rem;
 }
@@ -10936,8 +10933,14 @@ footer a {
   color: #658795;
 }
 
-.footer-nav nav {
+.upper-footer {
+  background-image: url(../assets/images/footer-bg.jpg);
+}
+
+.footer-nav {
   background-color: #303030;
+}
+.footer-nav nav {
   padding: 2rem 0rem;
 }
 .footer-nav ul {
